@@ -1,1 +1,0 @@
-/usr/bin/c++  -g -std=c++11 -fPIC -g -std=c++11 -g -std=c++11 CMakeFiles/discardClient.dir/discardClient.cpp.o -o discardClient  -Wl,-rpath,/home/user/wkspaces/projects/myMuduo/lib ../../../lib/libmymuduo.so.1.0.1 

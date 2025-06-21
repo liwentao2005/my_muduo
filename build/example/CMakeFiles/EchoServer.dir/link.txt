@@ -1,1 +1,0 @@
-/usr/bin/c++  -g -std=c++11 -fPIC -g -std=c++11 CMakeFiles/EchoServer.dir/EchoServer.cpp.o -o EchoServer  -Wl,-rpath,/home/user/wkspaces/projects/myMuduo/lib ../../lib/libmymuduo.so.1.0.1 

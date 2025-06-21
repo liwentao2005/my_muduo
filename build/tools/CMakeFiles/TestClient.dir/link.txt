@@ -1,1 +1,0 @@
-/usr/bin/c++  -g -std=c++11 -fPIC -g -std=c++11 CMakeFiles/TestClient.dir/TestClient.cpp.o -o TestClient 
