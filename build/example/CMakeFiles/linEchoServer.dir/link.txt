@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -std=c++11 -fPIC -g -std=c++11 CMakeFiles/linEchoServer.dir/epoll_linux.cpp.o -o linEchoServer 

@@ -1,0 +1,4 @@
+/home/user/wkspaces/projects/myMuduo/example/build/CMakeFiles/EchoServer.dir
+/home/user/wkspaces/projects/myMuduo/example/build/CMakeFiles/linEchoServer.dir
+/home/user/wkspaces/projects/myMuduo/example/build/CMakeFiles/edit_cache.dir
+/home/user/wkspaces/projects/myMuduo/example/build/CMakeFiles/rebuild_cache.dir

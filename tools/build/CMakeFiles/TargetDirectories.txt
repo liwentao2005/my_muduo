@@ -1,0 +1,3 @@
+/home/user/wkspaces/projects/myMuduo/tools/build/CMakeFiles/TestClient.dir
+/home/user/wkspaces/projects/myMuduo/tools/build/CMakeFiles/edit_cache.dir
+/home/user/wkspaces/projects/myMuduo/tools/build/CMakeFiles/rebuild_cache.dir
